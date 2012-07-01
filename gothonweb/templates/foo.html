@@ -1,0 +1,17 @@
+$def with (greeting)
+
+<html>
+    <head>
+        <title>Welcome to Matthew Gibbs' website!</title>
+    </head>
+<body>
+<h1>This is Matthew Gibbs' web page!</h1>
+
+<p>$greeting</p>
+
+$if greeting:
+    <p>This message is here to tell you that the above statement was dynamic!</p>
+$else:
+    <p>This message is here to tell you that the above statement was static!</p>
+</body>
+</html>

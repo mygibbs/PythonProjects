@@ -1,0 +1,7 @@
+setup.py
+C:/Users/Owner/My_Projects/myFirstGame/bin/myFirstGame.py
+myFirstGame.egg-info/PKG-INFO
+myFirstGame.egg-info/SOURCES.txt
+myFirstGame.egg-info/dependency_links.txt
+myFirstGame.egg-info/requires.txt
+myFirstGame.egg-info/top_level.txt
